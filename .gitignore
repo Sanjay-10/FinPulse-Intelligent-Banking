@@ -1,4 +1,7 @@
 file.swift
 .env
+
 backendServices/*
+!backendServices/README.md
+
 Project_Structure
